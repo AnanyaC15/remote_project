@@ -1,0 +1,1 @@
+This file is to explain the ML model for predicting people who died in titanic. We will use classification models for this purpose. The models used are decision trees and random forest along with fine tuning of hyperparameters to optimise our final models performance.
